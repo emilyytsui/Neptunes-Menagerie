@@ -101,26 +101,6 @@
 *.mpeg lfs-file
 *.mp4 lfs-file
 
-# 3D formats
-*.3ds lfs-file
-*.3dm lfs-file
-*.abc lfs-file
-*.blend lfs-file
-*.c4d lfs-file
-*.dae lfs-file
-*.dfx lfs-file
-*.FBX lfs-file
-*.fbx lfs-file
-*.glb lfs-file
-*.gltf lfs-file
-*.lwo lfs-file
-*.lwo2 lfs-file
-*.lxo lfs-file
-*.obj lfs-file
-*.ma lfs-file
-*.max lfs-file
-*.mb lfs-file
-
 # Font formats
 *.ttf lfs-file
 *.otf lfs-file
